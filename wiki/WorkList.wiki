@@ -3,12 +3,19 @@
 = Seznam úloh =
 
   * zbraně
+    * 3D model
+    * UV mapa
+    * Textury
+    * Export BF2Editor
+    * Kodování (funkčnost zbraně)
   * vozidla
     * 3D model
+    * UV mapa
+    * Textury
     * kolizní model
     * zvuky
   * výbava
     * uprava pro cz
-    * 
+    * dosazení zbraní
   * postavy
     * animace
