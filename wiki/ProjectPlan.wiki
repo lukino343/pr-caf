@@ -1,5 +1,7 @@
 #summary High Level Plan
 
+<wiki:toc max_depth="2" />
+
 = Analýza =
 
 == Úkoly ==
@@ -18,6 +20,6 @@
 TODO definovat fáze
 
 
-= Milníky =
+= Implementace =
 
 TODO 
