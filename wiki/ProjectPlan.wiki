@@ -39,6 +39,45 @@
   * Schválení projektu PR-DEV týmem.
 
 
-= Implementace =
+= Implementace 1 =
 
- TODO 
+== Úkoly ==
+ 
+  # 
+
+== Výstupy ==
+
+  * 
+
+
+= Implementace 2 =
+
+== Úkoly ==
+ 
+  # 
+
+== Výstupy ==
+
+  * 
+
+
+= Implementace 3 =
+
+== Úkoly ==
+ 
+  # 
+
+== Výstupy ==
+
+  * 
+
+
+= Finalizace =
+
+== Úkoly ==
+ 
+  # 
+
+== Výstupy ==
+
+  * Schválení projektu a zařazení do PR release.
