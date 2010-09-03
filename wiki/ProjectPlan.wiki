@@ -10,16 +10,35 @@
   # Vytvořit prvotní projektový plán.
   # Připravit procesy pro tvorbu projektu.
 
-== Cíle ==
+== Výstupy ==
 
   * Stručný seznam úkolů nutných pro dokončení projektu (viz [WorkList]).
-  * 
+  * Definovaný časový rámec projektu.
+  * Základní časový plán projektu.
+  * Představení projektu komunitě. 
+
 
 = Design =
 
-TODO definovat fáze
+== Úkoly ==
+
+  # Finalizovat s komunitou návrh kitů.
+  # Finalizovat s komunitou návrh vozidel.
+  # Finalizovat s komunitou návrh map.
+  # Nábor dalších lidí.
+  # Definované role lidí v projektu.
+  # Ustanovený proces vývoje projektu a PoC (Proof of Concept) toho, že jsme schopni projekt dělat.
+  # Přesný harmonogram implementace.
+
+
+== Výstupy ==
+
+  * Ustanovení PR-CAF týmu.
+  * Základ implementace z PoC.
+  * Představení nového plánu PR-DEV týmu.
+  * Schválení projektu PR-DEV týmem.
 
 
 = Implementace =
 
-TODO 
+ TODO 
