@@ -8,7 +8,7 @@
 
   # Odhadnout celkovou náročnost projektu. 
   # Vytvořit prvotní projektový plán.
-  # Připravit procesy pro tvorbu projektu.
+  # Připravit procesy a zázemí pro tvorbu projektu.
 
 == Výstupy ==
 
