@@ -1,15 +1,15 @@
 #summary High Level Plan
 
-= Targets =
+= Cíle =
 
-TODO
-
-
-= Phases =
-
-TODO
+TODO definovat cíle projektu
 
 
-= Milestones =
+= Fáze =
 
-TODO
+TODO definovat fáze
+
+
+= Milníky =
+
+TODO 
