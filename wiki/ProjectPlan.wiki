@@ -1,11 +1,19 @@
 #summary High Level Plan
 
-= Cíle =
+= Analýza =
 
-TODO definovat cíle projektu
+== Úkoly ==
 
+  # Odhadnout celkovou náročnost projektu. 
+  # Vytvořit prvotní projektový plán.
+  # Připravit procesy pro tvorbu projektu.
 
-= Fáze =
+== Cíle ==
+
+  * Stručný seznam úkolů nutných pro dokončení projektu (viz [WorkList]).
+  * 
+
+= Design =
 
 TODO definovat fáze
 
