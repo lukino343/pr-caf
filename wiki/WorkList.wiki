@@ -8,5 +8,7 @@
     * kolizní model
     * zvuky
   * výbava
+    * uprava pro cz
+    * 
   * postavy
     * animace
