@@ -4,7 +4,7 @@
 
   * zbraně
   * vozidla
-    * grafický model
+    * 3D model
     * kolizní model
     * zvuky
   * výbava
