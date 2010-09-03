@@ -1,0 +1,12 @@
+#summary Work list overview.
+
+= Seznam úloh =
+
+  * zbraně
+  * vozidla
+  ** grafický model
+  ** koizní model
+  ** zvuky
+  * výbava
+  * postavy
+  ** animace
