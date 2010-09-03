@@ -5,7 +5,7 @@
   * zbraně
   * vozidla
     * grafický model
-    * koizní model
+    * kolizní model
     * zvuky
   * výbava
   * postavy
