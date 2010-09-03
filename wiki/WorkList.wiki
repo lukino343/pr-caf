@@ -4,9 +4,9 @@
 
   * zbraně
   * vozidla
-  ** grafický model
-  ** koizní model
-  ** zvuky
+    * grafický model
+    * koizní model
+    * zvuky
   * výbava
   * postavy
-  ** animace
+    * animace
