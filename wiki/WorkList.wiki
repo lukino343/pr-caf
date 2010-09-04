@@ -9,7 +9,7 @@
     * Export BF2Editor
     * Kodování (funkčnost zbraně)
     * Zvuky
-  * vozidla
+  * Vozidla
     * 3D model
     * UV mapa
     * Textury
@@ -33,7 +33,7 @@
     * Složit
   * Mapa
     * Najít lokaci
-    * Vytvořit harmonogram(příprava mapy,teren,objecty,atd...)
+    * Vytvořit harmonogram(příprava mapy,terén,objekty,atd...)
     * Vytvoření mapy
     * Test mapy 64 lidí
   * Staticke objecty
