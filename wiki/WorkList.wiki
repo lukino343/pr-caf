@@ -8,14 +8,22 @@
     * Textury
     * Export BF2Editor
     * Kodování (funkčnost zbraně)
+    * Zvuky
   * vozidla
     * 3D model
     * UV mapa
     * Textury
+    * Export BF2Editor
     * kolizní model
+    * Kodování 
     * zvuky
   * výbava
     * uprava pro cz
+    * Textury
     * dosazení zbraní
   * postavy
+    * model
+    * textury
     * animace
+    * hlas
+    * Kodování 
