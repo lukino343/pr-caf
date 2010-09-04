@@ -2,7 +2,7 @@
 
 = Seznam úloh =
 
-  * zbraně
+  * Zbraně
     * 3D model
     * UV mapa
     * Textury
@@ -14,20 +14,20 @@
     * UV mapa
     * Textury
     * Export BF2Editor
-    * kolizní model
+    * Kolizní model
     * Kodování 
-    * zvuky
-  * výbava
-    * uprava pro cz
+    * Zvuky
+  * Výbava
+    * Uprava pro cz
     * Textury
-    * dosazení zbraní
+    * Dosazení zbraní
     * Kodování
-  * postavy
-    * model
-    * textury
+  * Postavy
+    * Model
+    * Textury
     * Export BF2Editor
-    * animace
-    * hlas
+    * Animace
+    * Hlas
     * Kodování 
   * Hudba
     * Složit
@@ -42,4 +42,4 @@
     * Textury  
     * Export BF2Editor  
   * Dokončování
-    * prezentace (video, screen)
+    * Prezentace (video, screen)
