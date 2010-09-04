@@ -29,3 +29,10 @@
     * animace
     * hlas
     * Kodování 
+  * Hudba
+    * Složit
+  * Mapa
+    * Najít lokaci
+    * Vytvořit harmonogram(příprava mapy,teren,objecty,atd...)
+    * Vytvoření mapy
+    * Test mapy 64 lidí
