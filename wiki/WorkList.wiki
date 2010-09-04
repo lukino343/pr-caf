@@ -50,4 +50,5 @@
     * Textury  
     * Export BF2Editor  
   * Dokončování
+    * Skládání samotného modu
     * Prezentace (video, screen)
