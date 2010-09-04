@@ -36,5 +36,10 @@
     * Vytvořit harmonogram(příprava mapy,teren,objecty,atd...)
     * Vytvoření mapy
     * Test mapy 64 lidí
+  * Staticke objecty
+    * 3D model
+    * UV mapa
+    * Textury  
+    * Export BF2Editor  
   * Dokončování
     * prezentace (video, screen)
