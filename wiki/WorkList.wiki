@@ -35,6 +35,8 @@
   * Mapa
     * Najít lokaci
     * Vytvořit harmonogram(příprava mapy,terén,objekty,atd...)
+      *
+      *
     * Vytvoření mapy
     * Test mapy 64 lidí
   * Staticke objecty
