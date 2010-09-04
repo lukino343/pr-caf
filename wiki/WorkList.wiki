@@ -36,3 +36,5 @@
     * Vytvořit harmonogram(příprava mapy,teren,objecty,atd...)
     * Vytvoření mapy
     * Test mapy 64 lidí
+  * Dokončování
+    * prezentace (video, screen)
