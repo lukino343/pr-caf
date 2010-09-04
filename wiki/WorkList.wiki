@@ -30,7 +30,8 @@
     * Hlas
     * Kodování 
   * Hudba
-    * Složit
+    * Načítání map
+    * Výhra,prohra
   * Mapa
     * Najít lokaci
     * Vytvořit harmonogram(příprava mapy,terén,objekty,atd...)
