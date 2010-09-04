@@ -33,11 +33,16 @@
     * Načítání map
     * Výhra, prohra
   * Mapa
-    * Najít lokaci
-    * Vytvořit harmonogram(příprava mapy,terén,objekty,atd...)
-      *
-      *
-    * Vytvoření mapy
+    * Najít lokaci,info o mapě(fotky,terén,velikost)
+    * Předložit PR teamu
+    * Prúběžně se musí podávat info PR teamu
+    * Export infa do BF2Editoru
+    * Terén
+    * Cesty
+    * Porost
+    * Objecty
+    * Voda
+    * Obloha 
     * Test mapy 64 lidí
   * Staticke objecty
     * 3D model
