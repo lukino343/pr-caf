@@ -21,9 +21,11 @@
     * uprava pro cz
     * Textury
     * dosazení zbraní
+    * Kodování
   * postavy
     * model
     * textury
+    * Export BF2Editor
     * animace
     * hlas
     * Kodování 
