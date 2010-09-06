@@ -1,4 +1,4 @@
-#summary High Level Plan
+#summary High Level Plan.
 
 <wiki:toc max_depth="2" />
 
