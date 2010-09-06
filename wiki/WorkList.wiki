@@ -35,7 +35,6 @@
   * Mapa
     * Najít lokaci,info o mapě(fotky,terén,velikost)
     * Předložit PR teamu
-    * Prúběžně se musí podávat info PR teamu
     * Export infa do BF2Editoru
     * Terén
     * Cesty
