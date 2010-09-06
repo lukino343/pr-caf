@@ -6,4 +6,4 @@
 || Medic_xx2 || CZ || Project Leader, Mapper ||
 || Palko || CZ, EN || Project Manager ||
 || Pipino || CZ || Mapper, Coder ||
-|| KorbenDalas || CZ, EN || Ex Army Member, Consultant ||
+|| !KorbenDalas || CZ, EN || Ex Army Member, Consultant ||
