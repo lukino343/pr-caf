@@ -1,3 +1,8 @@
 #summary Project members.
 
 = Project Team =
+
+|| Nick || Language || Roles ||
+|| Medic_xx2 || CZ || Project Leader, Mapper ||
+|| Palko || CZ, EN || Project Manager ||
+|| Pipino || CZ || Mapper, Coder ||
