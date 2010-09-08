@@ -4,6 +4,6 @@
 
 || *Nick* || *Language* || *Roles* ||
 || Medic_xx2 || CZ || Project Leader, Mapper ||
-|| Palko || CZ, EN || Project Manager ||
+|| Palko || CZ, EN || Translator ||
 || Pipino || CZ || Mapper, Coder ||
 || !KorbenDalas || CZ, EN || Ex Army Member, Consultant ||
