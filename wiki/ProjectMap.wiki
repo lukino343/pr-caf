@@ -1,5 +1,7 @@
 #summary Project central page.
 
+<wiki:toc max_depth="2" />
+
 = Language =
 
 Our team consist mainly of Czech and Slovak contributors. Not all of them speak English so most of the documentation is in Czech. However we know that we need support from all over the world and we are trying to maintain every piece of important information in English as well. If you think there is some missing translation, just let us know.
