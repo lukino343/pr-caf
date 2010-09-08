@@ -6,6 +6,6 @@ For description of what we are doing (kits, vehicles and assets description) che
 
 = Project Plan =
 
-We hope that the project can be created and ready for approval (by DEV team) in one year. To trac the development process this time is divided into several phases (see ProjectPlan).
+We hope that the project can be created and ready for approval (by DEV team) in one year. To trac the development process this time is divided into several phases - see the [ProjectPlan Project Plan].
 
-We want to work in 2 week based iterations. Each iteration will be precisely planned at the end of the preceding iteration. Iteration overview is on (see our [https://spreadsheets.google.com/ccc?key=tD1_GGBxOW3U0aJxFJpBKrw&authkey=CJf4nbcK#gid=0 Time Sheet]).
+We want to work in 2 week based iterations. Each iteration will be precisely planned at the end of the preceding iteration. Iteration overview is provided by the [https://spreadsheets.google.com/ccc?key=tD1_GGBxOW3U0aJxFJpBKrw&authkey=CJf4nbcK#gid=0 Time Sheet].
