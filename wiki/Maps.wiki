@@ -1,3 +1,3 @@
-*Map        : Poličany
-*Mapper     : medic_xx2
-*Googlmaps  : http://maps.google.sk/maps?f=q&source=s_q&hl=cs&q=257+56+K%3Fe%3Fovice-Poli%3Fany,+%3Fesk%3F+republika&sll=49.122871,16.16415&sspn=0.078527,0.22007&ie=UTF8&cd=1&geocode=Fbbt9gIdKCTcAA&split=0&hq=&hnear=K%3Fe%3Fovice-Poli%3Fany,+%3Fesk%3F+republika&t=h&ll=49.731664,14.422174&spn=0.01939,0.055017&z=15
+= Map        : Poličany =
+= Mapper     : medic_xx2 =
+= Googlmaps  : http://maps.google.sk/maps?f=q&source=s_q&hl=cs&q=257+56+K%3Fe%3Fovice-Poli%3Fany,+%3Fesk%3F+republika&sll=49.122871,16.16415&sspn=0.078527,0.22007&ie=UTF8&cd=1&geocode=Fbbt9gIdKCTcAA&split=0&hq=&hnear=K%3Fe%3Fovice-Poli%3Fany,+%3Fesk%3F+republika&t=h&ll=49.731664,14.422174&spn=0.01939,0.055017&z=15 =
