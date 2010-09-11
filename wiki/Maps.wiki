@@ -1,3 +1,9 @@
-# Map        : Poličany 
-# Mapper     : medic_xx2
-# Googlmaps  : http://maps.google.sk/maps?f=q&source=s_q&hl=cs&q=257+56+K%3Fe%3Fovice-Poli%3Fany,+%3Fesk%3F+republika&sll=49.122871,16.16415&sspn=0.078527,0.22007&ie=UTF8&cd=1&geocode=Fbbt9gIdKCTcAA&split=0&hq=&hnear=K%3Fe%3Fovice-Poli%3Fany,+%3Fesk%3F+republika&t=h&ll=49.731664,14.422174&spn=0.01939,0.055017&z=15
+Map        : Poličany 
+Mapper     : medic_xx2
+Googlmaps  : http://maps.google.cz/maps?f=q&source=s_q&hl=cs&geocode=&q=policany&sll=49.532785,14.912224&sspn=0.155751,0.44014&brcurrent=5,0,0&ie=UTF8&hq=&hnear=K%C5%99e%C4%8Dovice-Poli%C4%8Dany&ll=49.732025,14.423246&spn=0.019389,0.055017&t=h&z=15
+
+Rozloha 4km
+
+      Satelitní: http://caf.g6.cz/Maps/Policany_medic_xx2/Policany_sat.jpg
+      Teréní   : http://caf.g6.cz/Maps/Policany_medic_xx2/Policany_ter.jpg
+      Cesty    : http://caf.g6.cz/Maps/Policany_medic_xx2/Policany_road.jpg
