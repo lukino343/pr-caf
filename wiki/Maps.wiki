@@ -7,3 +7,6 @@ Rozloha 4km
       Satelitní: http://caf.g6.cz/Maps/Policany_medic_xx2/Policany_sat.jpg
       Teréní   : http://caf.g6.cz/Maps/Policany_medic_xx2/Policany_ter.jpg
       Cesty    : http://caf.g6.cz/Maps/Policany_medic_xx2/Policany_road.jpg
+
+Foto:
+      http://caf.g6.cz/Maps/Policany_medic_xx2/Policany1.jpg
