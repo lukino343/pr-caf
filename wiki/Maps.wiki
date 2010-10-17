@@ -1,3 +1,7 @@
+= Maps =
+
+<wiki:toc max_depth="2" />
+
 == Poličany ==
 
 http://maps.google.cz/maps?f=q&source=s_q&hl=cs&geocode=&q=policany&sll=49.532785,14.912224&sspn=0.155751,0.44014&brcurrent=5,0,0&ie=UTF8&hq=&hnear=K%C5%99e%C4%8Dovice-Poli%C4%8Dany&ll=49.732025,14.423246&spn=0.019389,0.055017&t=h&z=15
