@@ -1,4 +1,4 @@
-#summary Map environment proposals
+#summary Map environment proposals.
 
 = Maps =
 
