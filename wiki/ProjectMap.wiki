@@ -14,10 +14,6 @@ For description of what we are doing (kits, vehicles and assets description) che
 
 We hope that the project can be created and ready for approval (by DEV team) in one year. To track the development process this time is divided into several phases/iterations.
 
-We want to work in 2 week based iterations. Each iteration will be precisely planned at the end of the preceding iteration. Iteration overview is provided by the [https://spreadsheets.google.com/ccc?key=tD1_GGBxOW3U0aJxFJpBKrw&authkey=CJf4nbcK#gid=0 Time Sheet].
-
-= Work Overview =
-
 For those who are interested in the real work progress, we have a simple [https://spreadsheets.google.com/pub?key=0Am9bkWZ1AmlndEp0Vk9sZ1NvVVRYYjhXUE8xNlZSeUE&hl=en&gid=2 work overview] spreadsheet.
 
 = Forum =
