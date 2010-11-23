@@ -15,3 +15,7 @@ For description of what we are doing (kits, vehicles and assets description) che
 We hope that the project can be created and ready for approval (by DEV team) in one year. To track the development process this time is divided into several phases/iterations.
 
 We want to work in 2 week based iterations. Each iteration will be precisely planned at the end of the preceding iteration. Iteration overview is provided by the [https://spreadsheets.google.com/ccc?key=tD1_GGBxOW3U0aJxFJpBKrw&authkey=CJf4nbcK#gid=0 Time Sheet].
+
+= Forum =
+
+We have also our project forum at http://pr-caf.cz/forum . Feel free to join and contribute, we would appreciate it.
