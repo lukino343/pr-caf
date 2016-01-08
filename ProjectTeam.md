@@ -1,0 +1,8 @@
+# Project Team #
+
+| **Nick** | **Language** | **Roles** |
+|:---------|:-------------|:----------|
+| Medic\_xx2 | CZ           | Project Leader, Mapper |
+| Palko    | CZ, EN       | Translator |
+| Pipino   | CZ           | Mapper, Coder |
+| KorbenDalas | CZ, EN       | Ex Army Member, Consultant |

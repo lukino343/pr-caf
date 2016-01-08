@@ -1,0 +1,19 @@
+
+
+# Language #
+
+Our team consist mainly of Czech and Slovak contributors. Not all of them speak English so most of the documentation is in Czech. However we know that we need support from all over the world and we are trying to maintain every piece of important information in English as well. If you think there is some missing translation, just let us know.
+
+# Design Plan #
+
+For description of what we are doing (kits, vehicles and assets description) check the [Design Plan](https://spreadsheets.google.com/ccc?key=0Am9bkWZ1AmlndHgxMFRCMmszUERTV3RneU1qLUdwaGc&hl=en&authkey=CPD-paMN&pli=1#gid=0).
+
+# Project Plan #
+
+We hope that the project can be created and ready for approval (by DEV team) in one year. To track the development process this time is divided into several phases/iterations.
+
+For those who are interested in the real work progress, we have a simple [work overview](https://spreadsheets.google.com/pub?key=0Am9bkWZ1AmlndEp0Vk9sZ1NvVVRYYjhXUE8xNlZSeUE&hl=en&gid=2) spreadsheet.
+
+# Forum #
+
+We have also our project forum at http://pr-caf.cz/forum . Feel free to join and contribute, we would appreciate it.

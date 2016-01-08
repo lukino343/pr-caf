@@ -1,0 +1,21 @@
+# Maps #
+
+Map proposals
+
+
+
+## Poličany ##
+
+http://maps.google.cz/maps?f=q&source=s_q&hl=cs&geocode=&q=policany&sll=49.532785,14.912224&sspn=0.155751,0.44014&brcurrent=5,0,0&ie=UTF8&hq=&hnear=K%C5%99e%C4%8Dovice-Poli%C4%8Dany&ll=49.732025,14.423246&spn=0.019389,0.055017&t=h&z=15
+
+Size: 4km
+
+
+## Libavá ##
+
+http://maps.google.cz/maps?f=q&source=s_q&hl=cs&geocode=&q=libava&sll=49.930008,15.369873&sspn=6.358737,16.907959&brcurrent=5,0,0&ie=UTF8&hq=&hnear=Libav%C3%A1&ll=49.698283,17.528858&spn=0.099818,0.264187&t=h&z=13
+
+
+## Dukla ##
+
+http://maps.google.cz/maps?f=q&source=s_q&hl=cs&geocode=&q=libava&sll=49.930008,15.369873&sspn=6.358737,16.907959&brcurrent=5,0,0&ie=UTF8&hq=&hnear=Libav%C3%A1&t=h&ll=49.668517,17.422943&spn=0.074771,0.111408&z=13

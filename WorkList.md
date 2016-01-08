@@ -1,0 +1,51 @@
+# Seznam úloh #
+
+  * Zbraně
+    * 3D model
+    * UV mapa
+    * Textury
+    * Export BF2Editor
+    * Kodování (funkčnost zbraně)
+    * Zvuky
+  * Vozidla
+    * 3D model
+    * UV mapa
+    * Textury
+    * Export BF2Editor
+    * Kolizní model
+    * Kodování
+    * Zvuky
+  * Výbava
+    * Uprava pro cz
+    * Textury
+    * Dosazení zbraní
+    * Kodování
+  * Postavy
+    * Model
+    * Textury
+    * Export BF2Editor
+    * Animace
+    * Hlas
+    * Kodování
+  * Hudba
+    * Načítání map
+    * Výhra, prohra
+  * Mapa
+    * Najít lokaci,info o mapě(fotky,terén,velikost)
+    * Předložit PR teamu
+    * Export infa do BF2Editoru
+    * Terén
+    * Cesty
+    * Porost
+    * Objecty
+    * Voda
+    * Obloha
+    * Test mapy 64 lidí
+  * Staticke objecty
+    * 3D model
+    * UV mapa
+    * Textury
+    * Export BF2Editor
+  * Dokončování
+    * Skládání samotného modu
+    * Prezentace (video, screen)
